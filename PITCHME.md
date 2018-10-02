@@ -1,14 +1,13 @@
-# Flux 
+# test
 
-An application architecture for React
-
+- this is a simple test to see if the pitchme works
 ---
 
-### Flux Design
+### seccnd slide
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Content
+- More content
+- Even more content
 
 ---
 
