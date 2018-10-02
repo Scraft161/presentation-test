@@ -1,13 +1,22 @@
 # test
 
 - this is a simple test to see if the pitchme works
+
 ---
 
-### seccnd slide
+### seccond slide
 
 - Content
 - More content
 - Even more content
+
++++
+
+# Hidden vertical slide
+
+- With even more content
+- And still more content
+- And stil even more content
 
 ---
 
